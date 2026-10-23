@@ -53,6 +53,26 @@ An academic team project for managing bus trips and ticket bookings.
 
 🔗 [View source code](https://github.com/vylcce200285-ai/FU-Bus)
 
+---
+
+### 📖 Cvy_cousera — Learning Resources Website
+
+A website for organizing study materials and learning services
+by semester and course.
+
+**Technologies:** HTML, CSS, JavaScript.
+
+**Project features:**
+
+- Organize learning resources by semester and course.
+- Provide separate pages for different courses.
+- Help users navigate between study materials.
+- Include a login interface for accessing resources.
+- Use JavaScript to load and display website content.
+
+🔗 [View source code](https://github.com/vylcce200285-ai/Cvy_cousera)
+
+---
 
 ## What I Am Improving
 
