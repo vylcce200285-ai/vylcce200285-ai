@@ -1,4 +1,5 @@
 # Hi, I'm Lữ Chí Vỹ 👋
+🌐 **[View my portfolio — Website giới thiệu bản thân và dự án](https://vylcce200285-ai.github.io/)**
 
 ### Software Engineering Student | FPT University – Can Tho Campus
 
